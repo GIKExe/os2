@@ -1,6 +1,9 @@
 [Сайт симуляции](https://copy.sh/v86/), [Опкоды процессора](http://sparksandflames.com/files/x86InstructionChart.html), [Bios 0x10](https://biosprog.narod.ru/real/ints/int10.htm)
 <br>
 Программы: [HxD](https://mh-nexus.de/en/) (для изменения файлов по байтам), [UltraISO](https://www.ezbsystems.com/) (для создания загрузочного образа)
+<br><br>
+![image](https://github.com/GIKExe/os2/assets/72767917/81d5189e-79d5-4f66-91cb-d4949b337e3d)
+
 ```
 ### установка экрана (очистка тоже так работает)
 B0 mov AL, 0x03
